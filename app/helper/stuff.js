@@ -1,7 +1,7 @@
 import { Navigation } from 'react-native-navigation';
 import {IconsMap, IconsLoaded} from '../helper/appIcon';
 
-export var baseUrl= 'http://192.168.1.88/crimenesia/public/';
+export var baseUrl= 'http://192.168.1.47/crimenesia/public/';
 
 export function tabScreen(nik){
     IconsLoaded.then(() => { 
