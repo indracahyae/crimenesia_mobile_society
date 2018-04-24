@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "357945325336",
+    "firebase_url": "https://gmapsandroid-1296.firebaseio.com",
+    "project_id": "gmapsandroid-1296",
+    "storage_bucket": "gmapsandroid-1296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357945325336:android:2f66ba2739fc6b59",
+        "android_client_info": {
+          "package_name": "com.crimenesia_public"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357945325336-d7n7klgabq207aetbd2j9tu2qdto2iq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxIcXIwAg3P0nFJcgPYhOFkp64wWYnBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
