@@ -28,5 +28,5 @@ The Database file name is [db.sql](https://github.com/indracahyae/crimenesia_mob
 This is a login page.
 ![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/login.JPEG?raw=true)
 <br><br>
-![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/signUpx.JPEG?raw=true)
+![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/signUp.JPEG?raw=true)
 <br><br>
