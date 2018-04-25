@@ -46,6 +46,8 @@ This pages of manage complaint data.<br>
 ![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/laporDetail.JPEG?raw=true)
 <br>
 ![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/laporBuktiList.JPEG?raw=true)
+<br>
+![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/laporBuktiList2.png?raw=true)
 <br><br>
 This pages of crime map.<br>
 ![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/crimeMap.JPEG?raw=true)
@@ -57,4 +59,13 @@ This pages of crime map.<br>
 ![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/crimeMapPolygon.JPEG?raw=true)
 <br>
 ![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/crimeMapRoute.JPEG?raw=true)
+<br>
+![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/googleDirection.png?raw=true)
+<br>
+![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/crimeMapListPelaku.png?raw=true)
+<br>
+![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/crimeMapListCrime.png?raw=true)
+<br><br>
+This notification of crime.<br>
+![](https://github.com/indracahyae/crimenesia_mobile_society/blob/master/img/notif.png?raw=true)
 <br>
